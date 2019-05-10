@@ -20,8 +20,8 @@ class TableViewController: UITableViewController {
         
         lista.append("Caminhada Rápida "+String(Int(fmc*0.55))+" a "+String(Int(fmc*0.60))+" batidas por minuto")
         lista.append("Trote "+String(Int(fmc*0.65))+" a "+String(Int(fmc*0.70))+" batidas por minuto")
-        lista.append("Corrida Leve "+String(Int(fmc*0.75))+"% a "+String(Int(fmc*0.80))+" batidas por minuto")
-        lista.append("Corrida Moderada "+String(Int(fmc*0.85))+"% a "+String(Int(fmc*0.90))+" batidas por minuto")
+        lista.append("Corrida Leve "+String(Int(fmc*0.75))+" a "+String(Int(fmc*0.80))+" batidas por minuto")
+        lista.append("Corrida Moderada "+String(Int(fmc*0.85))+" a "+String(Int(fmc*0.90))+" batidas por minuto")
         lista.append("Corrida Intensa:  "+String(Int(fmc*0.95))+" batidas por minuto")
     }
 
